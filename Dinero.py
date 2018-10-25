@@ -1,4 +1,4 @@
-Con este codigo pediras dinero a tus padres cuando lo que lleves encima no te de para comer.
+#Con este codigo pediras dinero a tus padres cuando lo que lleves encima no te de para comer.
 
 dinero = input("Cuanto dinero tienes en la cartera? ")
 if dinero <11.50 :
