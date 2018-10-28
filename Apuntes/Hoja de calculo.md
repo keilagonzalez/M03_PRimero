@@ -1,18 +1,18 @@
-###-F11/Controls compactes, més espai de visualització, millor es treballa
--Control intro, Z-Y, C-V-X
--Nota anonima, comentari grupal i es pot respondre
--Format condicional, Dona un color si cumpleix la condició donada
--Autofiltre, ordenar i buscar a una taula
--Grafica, d'una taula a un formatge, barres verticals/horitzontals, punts, etc
--Format, retalla, desbordament i adjust.
--Alineació vertical/horitzontal
--L'idioma pot canviar coses com una , per un ;
--Ocultar columnes que molesten a una llista i despres recuperar-les
--Ponderar multiplicant el pes del numero per ell, i dividint-los per la cuantitat de dades.
--Dia sense IVA, PVP/1,21
--COUNT(A), calcula el numero de celes, numeriques i alphanumeriques.
--Datedif, quant hi ha entre una data i l'altre?
--NOW, moment exacte actual
--If, condicional amb respostes, sense colors
--Percentatge de la manera llarga i la curta 88*(14/100) i 88*0,14
--Descompte/Recarrec, preu net + (preu net*0'21) o  preu net-(preu net*0'21)###
+**- F11/Controls** compactes, més espai de visualització, millor es treballa
+**- Control intro, Z-Y, C-V-X**
+**- Nota anonima, comentari grupal i es pot respondre**
+**- Format condicional,** Dona un color si cumpleix la condició donada
+**- Autofiltre,** ordenar i buscar a una taula
+**- Grafica,** d'una taula a un formatge, barres verticals/horitzontals, punts, etc
+**- Format,** retalla, desbordament i adjust.
+**- Alineació** vertical/horitzontal
+**- L'idioma** pot canviar coses com una , per un ;
+**- Ocultar columnes** que molesten a una llista i despres recuperar-les
+**- Ponderar**multiplicant el pes del numero per ell, i dividint-los per la cuantitat de dades.
+**- Dia sense IVA,** PVP/1,21
+**- COUNT(A),** calcula el numero de celes, numeriques i alphanumeriques.
+**- Datedif,** quant hi ha entre una data i l'altre?
+**- NOW,** moment exacte actual
+**- If,** condicional amb respostes, sense colors
+**- Percentatge** de la manera llarga i la curta 88*(14/100) i 88*0,14
+**- Descompte/Recarrec,** preu net + (preu net*0'21) o  preu net-(preu net*0'21)
