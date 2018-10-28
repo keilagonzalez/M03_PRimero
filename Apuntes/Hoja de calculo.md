@@ -15,4 +15,4 @@
 -NOW, moment exacte actual
 -If, condicional amb respostes, sense colors
 -Percentatge de la manera llarga i la curta 88*(14/100) i 88*0,14
--Descompte/Recarrec, preu net + (preu net*0'21) o  preu net-(reu net*0'21)
+-Descompte/Recarrec, preu net + (preu net*0'21) o  preu net-(preu net*0'21)
