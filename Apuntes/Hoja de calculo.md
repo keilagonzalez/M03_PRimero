@@ -1,4 +1,4 @@
--F11/Controls compactes, més espai de visualització, millor es treballa
+###-F11/Controls compactes, més espai de visualització, millor es treballa
 -Control intro, Z-Y, C-V-X
 -Nota anonima, comentari grupal i es pot respondre
 -Format condicional, Dona un color si cumpleix la condició donada
@@ -15,4 +15,4 @@
 -NOW, moment exacte actual
 -If, condicional amb respostes, sense colors
 -Percentatge de la manera llarga i la curta 88*(14/100) i 88*0,14
--Descompte/Recarrec, preu net + (preu net*0'21) o  preu net-(preu net*0'21)
+-Descompte/Recarrec, preu net + (preu net*0'21) o  preu net-(preu net*0'21)###
