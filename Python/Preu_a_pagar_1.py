@@ -1,6 +1,6 @@
 #Determinando el precio por edad, sexo y color de pelo.
 
-edad = int(input("Cuantos años tienes? "))
+edad = int(input("Cuantos anyos tienes? "))
 sexo = input("Eres hombre (H), o mujer (D)? ")
 pelo = input ("De que color tienes el pelo? ")
 if (edad >65) : 
