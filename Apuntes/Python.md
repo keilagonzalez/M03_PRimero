@@ -11,8 +11,8 @@
 - "* " (Multiplicació)
 - "** " (Exponent)
 - "/" (Divisió)
-- "//" (Divisió sense desimals)
-- "%" (Módul)
+- "//" (Divisió sense decimals)
+- "%" (Mòdul)
 
-- "Float()" (Desimals)
+- "Float()" (Decimals)
 - "Int()" (Sencers)
