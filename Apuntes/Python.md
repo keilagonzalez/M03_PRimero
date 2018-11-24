@@ -1,6 +1,18 @@
-- ==
-- !=
-- <
-- >
-- <=
-- >=
+- = (Fora del if) 
+- == (Al if)
+- != (Diferent)
+- < (Petit estricte)
+- > (Gran estricte)
+- <= (Petit o igual)
+- >= (Gran o igual)
+
+- + (Suma)
+- - (Resta/Negatiu)
+- * (Multiplicació)
+- ** (Exponent)
+- / (Divisió)
+- // (Divisió sense desimals)
+- % (Módul)
+
+- Float()(Desimals)
+- Int()(Sencers)
