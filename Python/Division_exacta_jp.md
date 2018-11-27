@@ -12,4 +12,4 @@ Dividendo | Divisor | Resultado
        
         0 |    0    | No se puede dividir entre 0.
         
-      -20 |   -4    | La division es exacta, el cociente es -5
+      -20 |   -4    | La division es exacta, el cociente es 5
