@@ -2,7 +2,7 @@ Dividendo | Divisor | Resultado
 
        14 |    5    | La division no es exacta, el cociente es 2, y el resto es 4.
        
-        5 |    14   | La division no es exacta, el cociente es 
+        5 |    14   | La division no es exacta, el cociente es 0, y el residuo es 5.
         
        20 |    4    | La division es exacta, el cociente es 5.
        
